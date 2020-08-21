@@ -1,3 +1,9 @@
+# Copyright C&C Community © 2020 by Grant Bartlett
+# GPL-2.0 License
+# Version: 1.0.0
+# Email: support@cnc.community
+# Website: https://cnc.community
+
 import obspython as obs
 import urllib.request
 import urllib.error
@@ -11,8 +17,6 @@ data_settings_key_rank_name = "rank_source_key"
 data_settings_key_wins_name = "wins_source_key"
 data_settings_key_losses_name = "losses_source_key"
 data_settings_key_points_name = "points_source_key"
-
-# --
 
 
 # Fetch player profile from API
@@ -59,10 +63,7 @@ def update_text_source(source, data):
         obs.obs_source_release(src)
 
 
-# --
 # OBS Properties and window descriptions
-# --
-
 def refresh_pressed(props, prop):
     fetch_profile()
 
