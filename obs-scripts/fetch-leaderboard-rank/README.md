@@ -9,14 +9,14 @@
 
 ## Prerequisites 
 - Python version 3.6.8 installed and configured in OBS settings. 
-- Read how to check you have Python installed and configured for [#configuring-python](OBS here).
+- Read how to check you have Python installed and configured for [OBS here](#configuring-python).
 
 ## 🚀 Quick start
 
 1. Download `leaderboard-rank.py` to your PC. 
 2. Open OBS, go to Tools > Scripts.
 3. Click the (+) and point to `leaderboard-rank.py` where you have it saved on your PC. Upon saving, properties should appear. 
-4. Enter your URL to your API profile. To find your URL for your profile, [#finding-your-api-url](read here). 
+4. Enter your URL to your API profile. To find your URL for your profile, [read here](#finding-your-api-url). 
 5. Create an OBS text source and then select them from the dropdowns. If they don't appear, click the refresh icon bottom left, note: not the "Refresh" button.
 6. Once configured, click the "Refresh" button to fetch the latest data for your text sources. Note this endpoint is cached for 15 minutes. 
 
