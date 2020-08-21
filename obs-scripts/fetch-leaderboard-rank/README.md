@@ -1,12 +1,17 @@
 # Show your Rank for C&C Remasters in an OBS stream
 
+![logo](https://user-images.githubusercontent.com/6104940/90931150-ec587680-e3f3-11ea-8199-e437ac2f5c8b.png)
 
-![image](https://user-images.githubusercontent.com/6104940/90895778-8dc2d680-e3ba-11ea-997c-51bd78b80c6e.png)
-
-## Features
-- Automatically updates your text sources with your leaderboard rankings for the C&C Remasters
+# Features
+- Automatically updates your text sources with your leaderboard rankings for the C&C Remasters.
 - Show just your rank, or everything including: points, losses, wins.
+- Works for both Tiberian Dawn & Red Alert
 
+# Example
+![preview](https://user-images.githubusercontent.com/6104940/90931152-ecf10d00-e3f3-11ea-961f-cd87a4a0ce9f.png)
+
+
+# Getting started
 ## Prerequisites 
 - Python version 3.6.8 installed and configured in OBS settings. 
 - Read how to check you have Python installed and configured for [OBS here](#configuring-python).
