@@ -38,20 +38,6 @@ For Tiberian Dawn: Go here: `https://cnc.community/api/leaderboard/tiberian-dawn
 5. Once you have your API url, enter it into the URL property in the script.
 
 
-## Update Text source from your leaderboard profile
-- All sources look for text fields in OBS.
-
-    ![image](https://user-images.githubusercontent.com/6104940/90895109-88b15780-e3b9-11ea-8041-a44a4b7d1358.png)
-
-- Add a new Text (GDI+) source
-- Go to Tools > Scripts > Click the refresh icon
-
-    ![image](https://user-images.githubusercontent.com/6104940/90895180-a979ad00-e3b9-11ea-9926-e8387d377f64.png)
-
-- Now to go to the dropdown and select your new text source.
-    ![image](https://user-images.githubusercontent.com/6104940/90895257-c910d580-e3b9-11ea-8a72-3aa48b28827a.png)
-
-
 
 ## Configuring Python
 OBS Scripts require Python version 3.6.8 to be installed. 
@@ -71,5 +57,20 @@ First - check you already have this configured. If you do, you can skip everythi
 5. Follow the Python instructions to install noting where it installs.
 6. Once installed, set the path to Python in the OBS dialogue above. 
 
+
+## Update Text source from your leaderboard profile
+- All sources look for text fields in OBS.
+
+    ![image](https://user-images.githubusercontent.com/6104940/90895109-88b15780-e3b9-11ea-8041-a44a4b7d1358.png)
+
+- Add a new Text (GDI+) source
+- Go to Tools > Scripts > Click the refresh icon
+
+    ![image](https://user-images.githubusercontent.com/6104940/90895180-a979ad00-e3b9-11ea-9926-e8387d377f64.png)
+
+- Now to go to the dropdown and select your new text source.
+    ![image](https://user-images.githubusercontent.com/6104940/90895257-c910d580-e3b9-11ea-8a72-3aa48b28827a.png)
+    
+    
 ## License
 [GPL-2.0 License](https://github.com/cnc-community/api/blob/master/LICENSE)
