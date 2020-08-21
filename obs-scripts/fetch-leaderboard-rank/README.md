@@ -51,7 +51,7 @@ For Tiberian Dawn: Go here: `https://cnc.community/api/leaderboard/tiberian-dawn
 
 
 
-## Checking you have Python configured
+## Configuring Python
 OBS Scripts require Python version 3.6.8 to be installed. 
 
 First - check you already have this configured. If you do, you can skip everything around configuring python.
