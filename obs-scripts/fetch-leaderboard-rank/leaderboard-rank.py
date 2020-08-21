@@ -6,6 +6,7 @@
 
 import obspython as obs
 import urllib.request
+from urllib.request import Request, urlopen
 import urllib.error
 import json
 
@@ -22,7 +23,9 @@ data_settings_key_points_name = "points_source_key"
 # Fetch player profile from API
 def fetch_profile():
     try:
-        with urllib.request.urlopen(url) as response:
+        req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+
+        with urllib.request.urlopen(req) as response:
             data = response.read()
             text_response = data.decode('utf-8')
             json_response = json.loads(text_response)
