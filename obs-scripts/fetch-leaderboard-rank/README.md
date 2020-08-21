@@ -26,12 +26,12 @@
 1. First find your leaderboard profile for [Red Alert](https://cnc.community/command-and-conquer-remastered/leaderboard/red-alert) or [Tiberian Dawn](https://cnc.community/command-and-conquer-remastered/leaderboard/tiberian-dawn).
 
 2. Click into your profile and look for the ID on the end of the url. 
-E.g `https://cnc.community/command-and-conquer-remastered/leaderboard/tiberian-dawn/player/2902` the id would be `2902`.
+E.g `https://cnc.community/command-and-conquer-remastered/leaderboard/red-alert/player/3951` the id would be `3951`.
 
 3. For Red Alert: Now go to `https://cnc.community/api/leaderboard/red-alert/player/(ID_HERE)`.
 For Tiberian Dawn: Go here: `https://cnc.community/api/leaderboard/tiberian-dawn/player/(ID_HERE)`.
 
-4. Your URL should look like: `https://cnc.community/api/leaderboard/red-alert/player/2902`.
+4. Your URL should look like: `https://cnc.community/api/leaderboard/red-alert/player/3951`.
 
 5. Once you have your API url, enter it into the URL property in the script.
 
