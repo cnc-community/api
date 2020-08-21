@@ -1,10 +1,12 @@
-# Show your Rank for C&C Remasters in an OBS stream
+#  OBS C&C Remasters Leaderboard Ranks
+Show your C&C Remasters Quick Match Leaderboard rank in an OBS stream. 
 
 ![logo](https://user-images.githubusercontent.com/6104940/90931150-ec587680-e3f3-11ea-8199-e437ac2f5c8b.png)
 
 # Features
 - Automatically updates your text sources with your leaderboard rankings for the C&C Remasters.
-- Show just your rank, or everything including: points, losses, wins.
+- Show just your rank, or everything including: points, losses, wins. 
+- Move and control how the text behaves however you like.
 - Works for both Tiberian Dawn & Red Alert
 
 # Example
