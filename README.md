@@ -1,5 +1,5 @@
 # C&C Community API 
-API documentation &amp; scripts
+API documentation &amp; scripts for various things at cnc.community
 
 ## C&C Remastered Leaderboard API 
 
