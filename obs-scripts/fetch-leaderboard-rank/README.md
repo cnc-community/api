@@ -8,18 +8,17 @@
 - Show just your rank, or everything including: points, losses, wins.
 
 ## Prerequisites 
-- Python version 3.6.8 installed and configured in OBS settings. Read how to check you have Python installed below.
+- Python version 3.6.8 installed and configured in OBS settings. 
+- Read how to check you have Python installed and configured for [#configuring-python](OBS here).
 
 ## 🚀 Quick start
 
-- Download `leaderboard-rank.py` to your PC. 
-- Open OBS, go to Tools > Scripts.
-- Click + and point to `leaderboard-rank.py`
-- You should then see the properties below. 
-- Enter your URL to your API profile.
-- Select your OBS text sources from the dropdowns. If they don't appear, click the refresh ICON bottom left, not refresh button.
-- Click the "Refresh" button to fetch the latest data for your text sources. Note this will likely be cached for 15 minutes. 
-
+1. Download `leaderboard-rank.py` to your PC. 
+2. Open OBS, go to Tools > Scripts.
+3. Click the (+) and point to `leaderboard-rank.py` where you have it saved on your PC. Upon saving, properties should appear. 
+4. Enter your URL to your API profile. To find your URL for your profile, [#finding-your-api-url](read here). 
+5. Create an OBS text source and then select them from the dropdowns. If they don't appear, click the refresh icon bottom left, note: not the "Refresh" button.
+6. Once configured, click the "Refresh" button to fetch the latest data for your text sources. Note this endpoint is cached for 15 minutes. 
 
 ![image](https://user-images.githubusercontent.com/6104940/90894626-d37e9f80-e3b8-11ea-88ec-4af55fc919db.png)
 
