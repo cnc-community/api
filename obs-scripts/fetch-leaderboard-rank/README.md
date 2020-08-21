@@ -68,3 +68,6 @@ First - check you already have this configured. If you do, you can skip everythi
 
 5. Follow the Python instructions to install noting where it installs.
 6. Once installed, set the path to Python in the OBS dialogue above. 
+
+## License
+[GPL-2.0 License](https://github.com/cnc-community/api/blob/master/LICENSE)
