@@ -3,6 +3,9 @@
 
 ![image](https://user-images.githubusercontent.com/6104940/90895778-8dc2d680-e3ba-11ea-997c-51bd78b80c6e.png)
 
+## Features
+- Automatically updates your text sources with your leaderboard rankings for the C&C Remasters
+- Show just your rank, or everything including: points, losses, wins.
 
 ## Prerequisites 
 - Python version 3.6.8 installed and configured in OBS settings. Read how to check you have Python installed below.
