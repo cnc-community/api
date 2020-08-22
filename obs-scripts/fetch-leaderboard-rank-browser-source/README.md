@@ -15,11 +15,11 @@
 
 1. First find your leaderboard profile for [Red Alert](https://cnc.community/command-and-conquer-remastered/leaderboard/red-alert) or [Tiberian Dawn](https://cnc.community/command-and-conquer-remastered/leaderboard/tiberian-dawn).
 
-2. Click into your profile and look for the ID on the end of the url. 
-E.g `https://cnc.community/command-and-conquer-remastered/leaderboard/red-alert/player/3951` the id would be `3951`.
+2. Click into your profile and on the end of the url add `?showWebView=true`
+E.g `https://cnc.community/command-and-conquer-remastered/leaderboard/red-alert/player/3951?showWebView=true`
 
-3. For Red Alert: Now go to `https://cnc.community/api/leaderboard/red-alert/player/(ID_HERE)/webview/config`.
-For Tiberian Dawn: Go here: `https://cnc.community/api/leaderboard/tiberian-dawn/player/(ID_HERE)/webview/config`.
+3. This will enable a button that will take you to your configuration page for the webview. 
+![image](https://user-images.githubusercontent.com/6104940/90959022-c2ed2880-e48f-11ea-9efe-d8e6219f3830.png)
 
 4. Your URL should look like: `https://cnc.community/api/leaderboard/red-alert/player/3951/webview/config`.
 
