@@ -10,7 +10,8 @@
 - Paste the URL into OBS browser source and hit save. 
 - Your Leaderboard profile will update every 15 minutes.
 
-![image](https://user-images.githubusercontent.com/6104940/90894626-d37e9f80-e3b8-11ea-88ec-4af55fc919db.png)
+![configure](https://user-images.githubusercontent.com/6104940/90958679-d7c8bc80-e48d-11ea-8904-3ce7abf63e35.png)
+
 
 
 ## Finding your API URL 
