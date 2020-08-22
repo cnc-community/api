@@ -33,5 +33,9 @@ E.g `https://cnc.community/command-and-conquer-remastered/leaderboard/red-alert/
 ![configure](https://user-images.githubusercontent.com/6104940/90958679-d7c8bc80-e48d-11ea-8904-3ce7abf63e35.png)
 
 
+## Screenshots
+![preview](https://user-images.githubusercontent.com/6104940/90959126-d220a600-e490-11ea-91a6-3fe689e66bd4.png)
+
+
 ## License
 [GPL-2.0 License](https://github.com/cnc-community/api/blob/master/LICENSE)
