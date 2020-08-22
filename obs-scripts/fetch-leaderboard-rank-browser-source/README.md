@@ -8,8 +8,11 @@
 - Open OBS, under your "Sources", add a "Browser source"
 - Configure your C&C Community API webview settings and copy the URL 
 - Paste the URL into OBS browser source and hit save. 
-- Your Leaderboard profile will update every 15 minutes.
 
+## Features
+- Configure the colour, size and layout types of your leaderboard profile
+- Turn on/off properties, like wins, losses, and just have what you require.
+- Automatic Leaderboard profile update every 15 minutes.
 
 ## Finding your API URL and configure page
 
