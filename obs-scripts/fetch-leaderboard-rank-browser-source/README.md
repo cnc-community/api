@@ -10,11 +10,8 @@
 - Paste the URL into OBS browser source and hit save. 
 - Your Leaderboard profile will update every 15 minutes.
 
-![configure](https://user-images.githubusercontent.com/6104940/90958679-d7c8bc80-e48d-11ea-8904-3ce7abf63e35.png)
 
-
-
-## Finding your API URL 
+## Finding your API URL and configure page
 
 1. First find your leaderboard profile for [Red Alert](https://cnc.community/command-and-conquer-remastered/leaderboard/red-alert) or [Tiberian Dawn](https://cnc.community/command-and-conquer-remastered/leaderboard/tiberian-dawn).
 
@@ -26,8 +23,11 @@ For Tiberian Dawn: Go here: `https://cnc.community/api/leaderboard/tiberian-dawn
 
 4. Your URL should look like: `https://cnc.community/api/leaderboard/red-alert/player/3951/webview/config`.
 
-5. Once you have your API url, enter it into the URL property in the script.
+5. You can now configure how you want to display your stats with the settings listed. 
 
+6. Once complete take the URL at the bottom of the page and copy it into your OBS browser source. 
+
+![configure](https://user-images.githubusercontent.com/6104940/90958679-d7c8bc80-e48d-11ea-8904-3ce7abf63e35.png)
 
 
 ## License
