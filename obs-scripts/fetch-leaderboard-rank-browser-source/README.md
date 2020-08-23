@@ -12,7 +12,7 @@
 ## Features
 - Configure the colour, size and layout types of your leaderboard profile
 - Turn on/off properties, like wins, losses, and just have what you require.
-- Automatic Leaderboard profile update every 15 minutes.
+- Automatic Leaderboard profile update every 10 minutes.
 
 ## Tutorial
 - [Follow the tutorial here.](./TUTORIAL.md)
