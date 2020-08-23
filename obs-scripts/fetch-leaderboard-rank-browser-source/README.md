@@ -18,7 +18,7 @@
 - [Follow the tutorial here.](./TUTORIAL.md)
 
 ## Demo URL
-- [Have a play with the configuration for the webview here](https://cnc.community/api/leaderboard/red-alert/player/8545/webview?border=default&branding=default&color=green&layout=default&properties%5B0%5D=name&properties%5B1%5D=badge&properties%5B2%5D=rank&properties%5B3%5D=wins&properties%5B4%5D=lost&properties%5B5%5D=points&properties%5B6%5D=played&size=default)
+- [Have a play with the configuration for the webview here](https://cnc.community/api/leaderboard/red-alert/player/8545/webview/config?border=default&branding=default&color=green&layout=default&properties%5B0%5D=name&properties%5B1%5D=badge&properties%5B2%5D=rank&properties%5B3%5D=wins&properties%5B4%5D=lost&properties%5B5%5D=points&properties%5B6%5D=played&size=default)
 
 ## Screenshots
 ![preview](https://user-images.githubusercontent.com/6104940/90959126-d220a600-e490-11ea-91a6-3fe689e66bd4.png)
