@@ -30,5 +30,6 @@ E.g `https://cnc.community/command-and-conquer-remastered/leaderboard/red-alert/
 ## Step 3 - Save and position on screen
 
 - You can now move the browser source around and scale accordingly. You can also crop if you wish by holding the alt key and dragging the corners.
+
 ![image](https://user-images.githubusercontent.com/6104940/90976330-ff726000-e533-11ea-996c-e54aa09d5be8.png)
 
