@@ -2,6 +2,10 @@
 API documentation &amp; scripts for various things at cnc.community
 
 ## C&C Remastered Leaderboard API 
+There are currently some limited API endpoints available. 
+
+- [Search players by name](/api/players/search.md)
+- [Get player by id](/api/player/player.md)
 
 ## OBS Scripts
 
@@ -12,3 +16,6 @@ API documentation &amp; scripts for various things at cnc.community
 
 2. [Leaderboard Profiles - OBS Text Source](https://github.com/cnc-community/api/tree/master/obs-scripts/fetch-leaderboard-rank) - find everything to do with pulling in your leaderboard profile to your stream via text sources. 
 
+
+## Twitch Bots
+- Twitch chatbot for looking up C&C Remaster players highscores by [dan-mcm](https://github.com/dan-mcm/cncbot)
