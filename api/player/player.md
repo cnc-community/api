@@ -15,7 +15,8 @@ Get a players profile by player id
 ```json
 [
    {
-      "player_name":"Campaign Player",
+      "id": 123,
+      "name":"Player name",
       "rank":1,
       "wins":174,
       "losses":3,
