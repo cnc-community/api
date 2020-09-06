@@ -18,7 +18,7 @@ Get an array of player search results
 ```json
 [
    {
-      "id": 1234
+      "id": 1234,
       "player_name":"Player name",
       "rank":1,
       "wins":174,
